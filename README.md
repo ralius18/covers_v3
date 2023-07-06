@@ -41,12 +41,13 @@ npm run build
 npm run lint
 ```
 
-Still to do:
+## Still to do:
 * Ordering of set lists
 * Play set list
 * Possibly split out tabs in to separate table for optimization of table
 * Remove songs from sets when deleting
 * Use store for more things
+* Tidy up all the code
 * Probably other things
 
 ### Customize configuration
