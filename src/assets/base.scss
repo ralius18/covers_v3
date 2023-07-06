@@ -1,0 +1,18 @@
+.v-data-table, .v-table {
+  background: unset !important;
+  user-select: none;
+
+  // thead {
+    // tr td:hover {
+      // background: var(--v-theme-surface) !important;
+  //   }
+  // }
+
+  tbody {
+    tr {
+      &:hover {
+        background-color: rgb(var(--v-theme-surface)) !important;
+      }
+    }
+  }
+}
